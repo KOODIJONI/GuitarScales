@@ -11,7 +11,7 @@
 
 A prebuilt Windows `.exe` file is available in the `release/` folder of this repository. To run it:
 
-1. Download the latest `AllGuitarScales.exe` from the [`release`](./GuitarScales/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release) folder.
+1. Download the latest `AllGuitarScales.exe` from the [`release`](./AllGuitarScales/GuitarScales/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release) folder.
 2. Make sure all `.dll` files are included in the same folder (use [windeployqt](https://doc.qt.io/qt-6/windows-deployment.html) if you're building yourself).
 3. Double-click the `.exe` to launch the app — no install needed!
 
