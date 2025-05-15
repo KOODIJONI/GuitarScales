@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-948b3586c872d8b3fbaa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AllGuitarScales",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AllGuitarScales::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AllGuitarScales-Release-88d2fe1fa2d83b771b71.json",
+					"name" : "AllGuitarScales",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AllGuitarScales_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AllGuitarScales_autogen-Release-5d10061ad561709da315.json",
+					"name" : "AllGuitarScales_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AllGuitarScales_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AllGuitarScales_autogen_timestamp_deps-Release-2220075e90077880d74f.json",
+					"name" : "AllGuitarScales_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/cpp/AllGuitarScales/AllGuitarScales/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release",
+		"source" : "D:/cpp/AllGuitarScales/AllGuitarScales"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

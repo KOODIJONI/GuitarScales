@@ -1,0 +1,10 @@
+# ninja log v6
+6	1190	7690452935704396	AllGuitarScales_autogen/timestamp	87be905b1c0e6f1e
+6	1190	7690452935704396	AllGuitarScales_autogen/mocs_compilation.cpp	87be905b1c0e6f1e
+6	1190	7690452935704396	D:/cpp/AllGuitarScales/AllGuitarScales/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release/AllGuitarScales_autogen/timestamp	87be905b1c0e6f1e
+6	1190	7690452935704396	D:/cpp/AllGuitarScales/AllGuitarScales/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release/AllGuitarScales_autogen/mocs_compilation.cpp	87be905b1c0e6f1e
+1224	4145	7690452937210369	CMakeFiles/AllGuitarScales.dir/main.cpp.obj	96fc972b7c6e0687
+1232	5047	7690452937290161	CMakeFiles/AllGuitarScales.dir/fretboard.cpp.obj	432dc98c2dd55dd4
+1197	5312	7690452936951062	CMakeFiles/AllGuitarScales.dir/AllGuitarScales_autogen/mocs_compilation.cpp.obj	314b4d29d2191769
+1228	5955	7690452937260237	CMakeFiles/AllGuitarScales.dir/allguitarscales.cpp.obj	6745252c54786e64
+5955	6265	7690452984521367	AllGuitarScales.exe	c56fdc3149eabda2
