@@ -2,7 +2,7 @@
 
 **AllGuitarScales** is a simple desktop app that shows guitar scales on a virtual fretboard. You can pick a note, scale, and tuning, and see how the scale lays out across all 24 frets.
 
-(![image](https://github.com/user-attachments/assets/548dc189-4bd0-4787-a595-2e72ff06138f)
+![image](https://github.com/user-attachments/assets/548dc189-4bd0-4787-a595-2e72ff06138f)
 
 
 ---
